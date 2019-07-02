@@ -1,5 +1,8 @@
-# JAVA-Course-Design-of-Software-College-of-Shandong-University
+# JAVA-Course-Design-of-Software-College-of-ShanDong-University
 山东大学软件学院2018级JAVA课程设计
+
+实验要求设计一个班级事务管理系统，班内成员可进行查看公告，投票等操作。
+
 最终系统实现的功能
 
 1.权限管理：设管理员与用户两种使用权限，管理员操作过程有日志记录，管理员有权限发布公告和投票。
