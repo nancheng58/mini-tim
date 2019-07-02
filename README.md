@@ -51,6 +51,7 @@
 19.私聊时点击头像或者用户名可以显示用户信息。
 
 20.添加了小游戏功能，并加入了分数统计功能，查看用户信息时可以查看对方的最高记录。
+
 21.实现了日志功能。用户每次进行请求时都会把结果写入到日志中。
 ![image](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College-of-Shandong-University/blob/master/image.png)
 
@@ -78,6 +79,7 @@ C/S 架构，实现客户端与服务器分离，通常客户端运行应用程�
 系统一共有5个包。分别是bean , DB，GUI，net, util。
 一．Bean包是系统附加功能及系统静态资源调用包。
 里面有以下五个类：
+
 1.User类：内含用户信息调用方法。
 
 2.Constant类:系统静态工具类，含有存放了缓存文件夹（文件，聊天记录，截屏图片等）的路径和获取文件大小的工具静态方法。
