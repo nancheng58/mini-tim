@@ -1,4 +1,5 @@
 # 山东大学软件学院2018级JAVA课程设计
+## [English](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README.md)
 
 实验要求设计一个班级事务管理系统，班内成员可进行查看公告，投票等操作。
 
