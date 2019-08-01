@@ -1,4 +1,4 @@
-# JAVA-Course-Design-of-Software-College-of-ShanDong-University
+# JAVA Course Design of Software College of ShanDong University
 
 # [中文](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README(ZH).md)
 ## The experiment requires the design of a class affairs management system. The class members can check the announcement, vote and other operations.
