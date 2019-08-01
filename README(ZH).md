@@ -13,20 +13,20 @@
 
 
 3.公告传阅：公告发送给班级的每个成员，并给与提醒。公告信息显示在班级的公告面板里，配有带下划线的标题。
-
+https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo3.png
 
 4.文件共享：在服务器端每个班级设置共享空间，允许班级成员上传下载（离线）。实现了文件属性的预览，包括文件名，大小，上传时间，上传者。文件下载后可以直接打开。
-
+https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo4.png
 
 
 5.即时通信：独立弹出小窗，基本功能：一对一对话（私聊），发言至班级（群聊），可发送图片。
-
+https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo5.png
 6.表情发送：实现选择一个表情并发送功能。
-
+https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo6.png
 
 
 7.截图功能：选择截图并发送，监听键盘实现组合键Ctrl+Alt+x快速截图功能。
-
+https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo7.png
 
 8.抖动功能：自身抖动并发送抖动消息，实现了双方一起抖动的功能，私聊和群聊都可使用。
 9.系统托盘： 
