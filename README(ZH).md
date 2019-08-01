@@ -13,24 +13,27 @@
 
 
 3.公告传阅：公告发送给班级的每个成员，并给与提醒。公告信息显示在班级的公告面板里，配有带下划线的标题。
-https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo3.png
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo3.png)
 
 4.文件共享：在服务器端每个班级设置共享空间，允许班级成员上传下载（离线）。实现了文件属性的预览，包括文件名，大小，上传时间，上传者。文件下载后可以直接打开。
-https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo4.png
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo4.png)
 
 
 5.即时通信：独立弹出小窗，基本功能：一对一对话（私聊），发言至班级（群聊），可发送图片。
-https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo5.png
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo5.png)
+
 6.表情发送：实现选择一个表情并发送功能。
-https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo6.png
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo6.png)
 
 
 7.截图功能：选择截图并发送，监听键盘实现组合键Ctrl+Alt+x快速截图功能。
-https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo7.png
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo7.png)
 
 8.抖动功能：自身抖动并发送抖动消息，实现了双方一起抖动的功能，私聊和群聊都可使用。
 9.系统托盘： 
 实现了如下功能：左键弹出窗口；右键弹出选项菜单，可以添加班级，创建班级，打开，退出；收到消息时托盘闪烁，直到用户点击托盘为止；
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo91.png)
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo91.png)
 
 10.消息提示音：收到消息时发出消息提示音
 
@@ -38,25 +41,42 @@ https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-Coll
 
 
 12.绘图板：实现了实时手绘的功能，并发送给当前聊天的用户或班级。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo12.png)
 
 13.头像功能：用户和班级都可以添加头像。
+
 14.登录注册功能：检验密码是否正确。加入了防止重复登录机制。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo14.png)
+
+
 15.加入班级，创建班级功能： 
 可以创建和加入班级，创建班级后自动变为管理员身份。
-
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo151.png)
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo152.png)
 
 16.消息提醒
 收到消息后会由图一变为图二。管理员发布文稿，公告，投票时也都会有提示。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo161.png)
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo162.png)
+
 17.聊天气泡功能：绘制了聊天气泡，区分消息本用户与其他用户。聊天气泡可以放置文字和图片。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo17.png)
+
 
 18.在班群里单击头像即可发起私聊。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo18.png)
 
 
 19.私聊时点击头像或者用户名可以显示用户信息。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo19.png)
+
 
 20.添加了小游戏功能，并加入了分数统计功能，查看用户信息时可以查看对方的最高记录。
 
 21.实现了日志功能。用户每次进行请求时都会把结果写入到日志中。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo21.png)
+
+
 ![image](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College-of-Shandong-University/blob/master/image.png)
 
 一．系统模块架构
