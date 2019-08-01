@@ -30,6 +30,7 @@
 ![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo7.png)
 
 8.抖动功能：自身抖动并发送抖动消息，实现了双方一起抖动的功能，私聊和群聊都可使用。
+
 9.系统托盘： 
 实现了如下功能：左键弹出窗口；右键弹出选项菜单，可以添加班级，创建班级，打开，退出；收到消息时托盘闪烁，直到用户点击托盘为止；
 ![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo91.png)
