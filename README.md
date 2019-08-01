@@ -1,6 +1,9 @@
 # JAVA Course Design of Software College of ShanDong University
 
 # [中文](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README(ZH).md)
+
+## Tip: The Chinese version can view project demo
+
 ## The experiment requires the design of a class affairs management system. The class members can check the announcement, vote and other operations.
 ## Functions of the final system
 1. Privilege management: Administrators and users have two kinds of permissions. Administrators have log records of the operation process. Administrators have the right to issue announcements and votes.
