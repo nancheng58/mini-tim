@@ -1,5 +1,4 @@
-# JAVA-Course-Design-of-Software-College-of-ShanDong-University
-山东大学软件学院2018级JAVA课程设计
+# 山东大学软件学院2018级JAVA课程设计
 
 实验要求设计一个班级事务管理系统，班内成员可进行查看公告，投票等操作。
 
