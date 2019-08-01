@@ -8,6 +8,7 @@
 1.权限管理：设管理员与用户两种使用权限，管理员操作过程有日志记录，管理员有权限发布公告和投票。
 
 2.传阅投票：列出同意与不同意选项，每个收到的同学能够看到稿子的当前状态，可加建议栏用于补充意见。投票时显示投票状态和详情。
+![avatar](https://raw.githubusercontent.com/nancheng58/JAVA-Course-Design-of-Software-College/master/projectdemo/demo2.png)
 
 
 
