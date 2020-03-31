@@ -1,6 +1,27 @@
 # 山东大学软件学院2018级JAVA课程设计
 ## [English](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README.md)
 
+# 搭建方法
+
+## 依赖环境
+
+## Java JDK+Mysql
+
+## 步骤：
+### 将源码下载到本地。
+
+### 本项目采用了mysql作为数据库，要将目录中的 **info.sql** 导入到本地的数据库中
+
+### 将src文件夹中bean包中的Constant 文件中的资源地址改为自定义地址
+
+### 将src文件夹中DB包中的DBConnection文件中的数据库配置改为自定义配置
+
+### 将lib文件夹里的相关jar包解析到项目中
+
+### 完成后，依次点击StartServer 和StartClient 文件即可
+
+### 注：本项目开发环境为Intellij Idea，所以建议使用其作为debug环境。注册功能可能有点问题，建议使用数据库中已存在的账号登录。支持多进程，可以同时打开多个客户端交♂流
+
 实验要求设计一个班级事务管理系统，班内成员可进行查看公告，投票等操作。
 
 最终系统实现的功能
