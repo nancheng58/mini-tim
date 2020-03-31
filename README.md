@@ -1,5 +1,26 @@
 # JAVA Course Design of Software College of ShanDong University
 
+# 搭建方法
+
+## 依赖环境
+
+## Java JDK+Mysql
+
+## 步骤：
+### 将源码下载到本地。
+
+### 本项目采用了mysql作为数据库，要将目录中的 **info.sql** 导入到本地的数据库中
+
+### 将src文件夹中bean包中的Constant 文件中的资源地址改为自定义地址
+
+### 将src文件夹中DB包中的DBConnection文件中的数据库配置改为自定义配置
+
+### 将lib文件夹里的相关jar包解析到项目中
+
+### 完成后，依次点击StartServer 和StartClient 文件即可
+
+### 注：本项目开发环境为Intellij Idea，所以建议使用其作为debug环境。注册功能可能有点问题，建议使用数据库中已存在的账号登录。支持多进程，可以同时打开多个客户端交♂流
+
 # [中文](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README(ZH).md)
 
 ## Tip: The Chinese version can view project demo
