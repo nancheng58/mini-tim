@@ -1,6 +1,8 @@
 # 山东大学软件学院2018级JAVA课程设计
 ## [English](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README.md)
 
+# 如果不用代理的话，下面的图应该会挂掉，只能下载项目文件在本地查看。
+
 # 搭建方法
 
 ## 依赖环境
