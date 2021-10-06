@@ -1,9 +1,9 @@
 # JAVA Course Design of Software College
 
 
-# [中文](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README(ZH).md)
+# [Chinese](https://github.com/nancheng58/JAVA-Course-Design-of-Software-College/blob/master/README(ZH).md)
 
-## Tip: The Chinese version can view project demo
+## Tip: In the Chinese version you can view project demo
 
 ## The experiment requires the design of a class affairs management system. The class members can check the announcement, vote and other operations.
 ## Functions of the final system
